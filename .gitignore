@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+
+# Virtual env
+.venv/
+venv/
+
+# Environment / secrets
+.env
+.env.*
+
+# KB artefacts (regenerated per run)
+knowledge_base.json
+
+# Backup files from tonight
+*_backup*.py
+*_before*.py
+*_WORKING.py
+agent_backup*.py
+tools_backup*.py
+eval_backup*.py
+tools_current_broken.py
+tools_after_other_agent.py
+
+# VS Code
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
