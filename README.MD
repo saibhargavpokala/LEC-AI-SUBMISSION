@@ -27,7 +27,7 @@ Eight tools are available: `knowledge_base_lookup`, `web_search`, `save_to_knowl
 
 ## Quick start
 
-### 1. Clone and install
+### 1. Clone and install --
 
 ```bash
 git clone <repo-url>
